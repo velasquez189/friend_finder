@@ -1,7 +1,7 @@
 var friends = [
     {
-        name:"Karl",
-        photo:"https://images.gr-assets.com/authors/1523865402p5/7084.jpg",
+        name:"Andrea",
+        photo:"https://www.treehugger.com/natural-sciences/what-does-it-feel-be-octopus.html",
         scores:[
             1,
             5,
@@ -16,8 +16,8 @@ var friends = [
           ]
       },
       {
-        name:"Vlad",
-        photo:"http://spartacus-educational.com/00lenin2.jpg",
+        name:"Comrade",
+        photo:"https://www.artstation.com/artwork/1NV02",
         scores:[
             1,
             5,
